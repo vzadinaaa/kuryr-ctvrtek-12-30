@@ -1,4 +1,4 @@
-package cz_tul_stin_interface;
+package shipping;
 
 public interface ShippingMethod {
     public double calculateCost(double weight);
